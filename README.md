@@ -26,3 +26,19 @@ xinput set-button-map "ELAN1207:00 04F3:310E Touchpad" 1 2 3 5 4 7 6 8 9 10 11 1
 
 ```
 Then relog the account!
+
+
+
+mouse button maps ：
+1 	Left click
+2 	Middle click
+3 	Right click
+4 	Wheel up
+5 	Wheel down
+6 	Wheel left
+7 	Wheel right
+8 	Thumb1
+9 	Thumb2
+10 	ExtBt7
+11 	ExtBt8
+
