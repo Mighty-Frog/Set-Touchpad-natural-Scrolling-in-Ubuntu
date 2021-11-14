@@ -1,0 +1,1 @@
+# Set-Touchpad-natural-Scrolling-in-Ubuntu
